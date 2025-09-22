@@ -1,0 +1,1 @@
+obj-y += ai_accel.o

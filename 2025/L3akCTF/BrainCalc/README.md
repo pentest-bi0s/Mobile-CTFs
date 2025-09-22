@@ -1,6 +1,11 @@
+# BrainCalc
+
+## Description
+```
 Quick and fun math quiz app for practicing.
+```
 
-Author: d3vnu11
-
-Password : braincalc
-
+Password for the [zip file](./Assests/ZIPs/app-debug1.zip) is `braincalc`.
+<p align="center">
+    Write-up Coming Soon...
+</p>
