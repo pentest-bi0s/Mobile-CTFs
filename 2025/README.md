@@ -57,6 +57,23 @@ This section contains all the **Android** and **iOS** Mobile CTF challenges from
 || Sekai Bank Transaction | [Click Here](./SekaiCTF/Sekai%20Bank%20Transaction/) |
 | TFC CTF | Creaky Vault | [Click Here](./TFC%20CTF/Creaky%20Vault/) |
 || Oxidized Intentions | [Click Here](./TFC%20CTF/Oxidized%20Intentions/) |
+| Cyber Mimis CTF | Just | [Click Here](./Cyber%20Mimis%20CTF/Just/) |
+| PwnSec CTF | CuteFrida | [Click Here](./PwnSec%20CTF/CuteFrida/) |
+|| FreakyFrida | [Click Here](./PwnSec%20CTF/FreakyFrida/) |
+|| RudeFrida | [Click Here](./PwnSec%20CTF/RudeFrida/) |
+| LakeCTF | Another Android Applaketion | [Click Here](./Lake%20CTF/Another%20Android%20Applaketion/) |
+| HeroCTF | Freeda Simple Hook | [Click Here](./HeroCTF/Freeda%20Simple%20Hook/) |
+|| Freeda Not Root | [Click Here](./HeroCTF/Freeda%20Not%20Root/) |
+|| Freeda Native Hook | [Click Here](./HeroCTF/Freeda%20Native%20Hook/) |
+| GlacierCTF | IcySlide2 | [Click Here](./GlacierCTF/IcySlide2/) |
+| Mobile Hacking Lab x IT Harmony CTF | Parse & Pwn | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/Android/Parse%20&%20Pwn/) |
+|| Tide Lock | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/Android/Tide%20Lock/) |
+|| Kernel Net | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/Android/Kernel%20Net/) |
+|| FuzzMe | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/Fuzzing/FuzzMe/) |
+| P3RF3CTR00T CTF | BiFrost | [Click Here](./P3RF3CTR00T%20CTF/BiFrost/) |
+| | Knight | [Click Here](./P3RF3CTR00T%20CTF/Knight/) |
+| | Days Gone | [Click Here](./P3RF3CTR00T%20CTF/Days%20Gone/) |
+| | Mad Max | [Click Here](./P3RF3CTR00T%20CTF/Mad%20Max/) |
 
 ## iOS Challenge Files and their Write-ups
 
@@ -65,6 +82,10 @@ This section contains all the **Android** and **iOS** Mobile CTF challenges from
 | DaVinciCTF | VinciVault | [Click Here](/2025/DaVinciCTF/VinciVault/) |
 | Mobile Hacking Community CTF | Quackify | [Click Here](./Mobile%20Hacking%20Community%20CTF/quackify/) |
 || Quantun Chat | [Click Here](./Mobile%20Hacking%20Community%20CTF/Quantun%20Chat/) |
+| Mobile Hacking Lab x IT Harmony CTF | Broke Lesnor | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/iOS/Broke%20Lesnor/) |
+|| Draw Back | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/iOS/Draw%20Back/) |
+|| Link Liar | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/iOS/Link%20Liar/) |
+|| Pictator | [Click Here](./Mobile%20Hacking%20Lab%20x%20IT%20Harmony%20CTF/iOS/Pictator/) |
 
 ---
 
