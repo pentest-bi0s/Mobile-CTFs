@@ -9,6 +9,7 @@ Each year has its own folder containing challenges grouped by CTF event.
 | Year | Link |
 |------|------|
 | 2025 | [View Challenges](/2025/) |
+| 2026 | [View Challenges](/2026/) |
 
 ---
 
