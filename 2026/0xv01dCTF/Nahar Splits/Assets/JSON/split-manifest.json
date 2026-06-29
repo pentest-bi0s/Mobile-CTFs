@@ -1,0 +1,13 @@
+{
+  "package": "void.mobile.splitoracle",
+  "splits": [
+    "base.apk",
+    "config.x86_64.apk",
+    "config.xxhdpi.apk"
+  ],
+  "install_order": [
+    "base",
+    "x86_64",
+    "xxhdpi"
+  ]
+}
