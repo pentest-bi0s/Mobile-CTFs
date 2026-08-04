@@ -5,6 +5,11 @@
 this is not the android you're looking for
 ```
 
-<p align="center">
-    Write-up Coming Soon...
-</p>
+Writeups Here: [Click Here](https://pentest.bi0s.in/blog/posts/squirrel-ctf-droid/)
+
+<div align="right">
+    <details>
+        <summary>Write-up authored by</summary>
+        <sub><a href="https://pentest.bi0s.in/blog/posts/squirrel-ctf-droid/">Narain</a></sub>
+    </details>
+</div>
