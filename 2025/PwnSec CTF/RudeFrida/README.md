@@ -4,7 +4,7 @@
 Say hello to RudeFrida, it is like your toxic ex who gaslighted you for loving her. - @TK
 ```
 
-Writeups Here: [Click Here](https://pentest.bi0s.in/blog/posts/pwnsec-ctf-rude-frida/)
+Writeups Here: [Click Here](https://pentest.bi0s.in/blog/posts/pwnsec-ctf-rude-frida/) 
 
 <div align="right">
     <details>
