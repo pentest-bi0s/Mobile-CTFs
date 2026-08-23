@@ -30,7 +30,11 @@ This section contains all the **Android** and **iOS** Mobile CTF challenges from
 || Qasr Backup | [Click Here](/2026/0xv01dCTF/Qasr%20Backup/) |
 || Qasr Cache | [Click Here](/2026/0xv01dCTF/Qasr%20Cache/) |
 | DalCTF | Baby Android | [Click Here](/2026/DalCTF/Baby%20Android/) |
-
+| brunnerCTF | Cake Search | [Click Here](/2026/brunnerCTF/Cake%20Search/) |
+|| Clean Desk | [Click Here](/2026/brunnerCTF/Clean%20Desk/) |
+|| One Pass | [Click Here](/2026/brunnerCTF/One%20Pass/) |
+|| One Voice | [Click Here](/2026/brunnerCTF/One%20Voice/) |
+|| Total Reward | [Click Here](/2026/brunnerCTF/Total%20Reward/) |
 ## iOS Challenge Files and their Write-ups
 
 | CTF Name | Challenge Name | Directory |
