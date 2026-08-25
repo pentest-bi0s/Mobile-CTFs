@@ -8,6 +8,11 @@ I was told that it was dangerous to let my application install on a rooted machi
 Don't waste too much time statically analyzing the application; there are much faster ways.
 ```
 
-<p align="center">
-    Write-up Coming Soon...
-</p>
+Writeups Here: [Click Here](https://pentest.bi0s.in/blog/posts/heroctf-freeda-not-root/)
+
+<div align="right">
+    <details>
+        <summary>Write-up authored by</summary>
+        <sub><a href="https://www.linkedin.com/in/narain-krishna-07128a374/">Narain</a></sub>
+    </details>
+</div>
